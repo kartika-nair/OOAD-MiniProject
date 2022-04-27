@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\maitr\\Downloads\\postgresql-42.3.4.jar",
+        "mysql-connector-java-5.1.46-bin.jar",
+        "rs2xml.jar"
+    ]
+}
